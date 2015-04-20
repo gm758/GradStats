@@ -1,0 +1,6 @@
+This repository contains code to scrape thegradcafe.com for admissions statistics and generate summary statistics
+
+To do:
+
+* Create and populate database from scrape
+* Find a way to merge alternate spellings, appreviations, etc (ex. UCLA vs University of California, Los Angeles)
